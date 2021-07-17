@@ -3,7 +3,8 @@
 My favorite quote, "<span id="k">First, solve the problem. Then, write the code.</span>".
 
 Hey There! My name is Karan Malhotra
-<p>I completed by undergrad in Computer Science and Engineering and I am currently working as a DevOps Engineer since July, 2018</p>
+<p>I am a Computer Science Graduate Student at University of Illinois, Chicago and I'm also employed as a Full Stack Developer at Students Affairs Technology Department of UIC</p>
+<p>I have previously worked as a Software Engineer - DevOps at Zycus for 2 years automating deployments, infrastructure and monitoring</p>
 <p>I love to code and provide solutions to solve real world problems.</p>
 
 <p>Checkout My<a href="KaranMalhotra_Resume.pdf"> Resume</a> to get a brief idea about my work</p>
